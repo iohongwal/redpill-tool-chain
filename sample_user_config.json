@@ -7,5 +7,10 @@
     },
     "synoinfo": {},
     "ramdisk_copy": {},
-    "extensions": []
+    "extensions": [
+      "jumkey.acpid2",
+      "thethorgroup.virtio",
+      "pocopico.e1000",
+      "pocopico.e1000e",
+    ]
 }
